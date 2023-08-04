@@ -1,0 +1,2 @@
+# Implementation-Of-Variable-Length-Spreading-In-CDMA-Systems
+A normal CDMA System works by PN Noise wherein it allocates an address to a user requesting for some data and then performs right or left shit for consecutive users and their respective requests. This is the conventional and tedious way which wastes valuable time and memory space , so to overcome this , my project aims to utilize the VLS Method.
