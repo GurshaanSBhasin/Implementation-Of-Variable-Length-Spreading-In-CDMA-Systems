@@ -1,4 +1,4 @@
-# Implementation-Of-Variable-Length-Spreading-In-CDMA-Systems
+Implementation-Of-Variable-Length-Spreading-In-CDMA-Systems
 A normal CDMA System works by PN Noise wherein it allocates an address to a user requesting for some data and then performs right or left shit for consecutive users and their respective requests. This is the conventional and tedious way which wastes valuable time and memory space , so to overcome this , my project aims to utilize the VLS Method.
 In this method the CDMA first reads and assesses the length / size of the user and accordingly allocates its memory space instead of the conventional default and thus varied upon the users request and adress , spreads the length of allocation and assigns values. 
 Hence of course , cutting down on time and space needed , thus making it a much faster and better alternative , though still in its trial phase , this basic project explores its possibility and impact. I have used Python code to make it user friendly and easier to understand , while running it on VS Code.
